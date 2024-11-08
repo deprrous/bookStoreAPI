@@ -1,0 +1,10 @@
+::1 - - [11/Oct/2024:16:13:17 +0000] "PUT /api/v1/categories/32 HTTP/1.1" 200 56 "-" "PostmanRuntime/7.42.0"
+::1 - - [11/Oct/2024:16:15:58 +0000] "PUT /api/v1/categories/32 HTTP/1.1" 200 56 "-" "PostmanRuntime/7.42.0"
+::1 - - [11/Oct/2024:16:16:06 +0000] "PUT /api/v1/categories/32/kl;j HTTP/1.1" 404 164 "-" "PostmanRuntime/7.42.0"
+::1 - - [12/Oct/2024:14:32:24 +0000] "GET /api/v1/categories HTTP/1.1" 200 44 "-" "PostmanRuntime/7.42.0"
+[0mGET / [33m404[0m 2.431 ms - 139[0m
+[0mGET / [33m404[0m 1.308 ms - 139[0m
+[0mGET /api/v1/categories [32m200[0m 5.525 ms - 44[0m
+[0mPOST /api/v1/categories [32m200[0m 1.277 ms - 45[0m
+[0mPOST /api/v1/categories [32m200[0m 5.298 ms - 45[0m
+[0mPOST /api/v1/categories [32m200[0m 3.023 ms - 45[0m

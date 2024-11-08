@@ -1,0 +1,12 @@
+[0mPOST /api/v1/categories [33m400[0m 39.832 ms - 417[0m
+[0mPOST /api/v1/categories [32m200[0m 239.641 ms - 159[0m
+[0mPOST /api/v1/categories [33m400[0m 6.320 ms - 681[0m
+[0mPOST /api/v1/categories [33m400[0m 184.514 ms - 351[0m
+[0mPOST /api/v1/categories [32m200[0m 183.388 ms - 136[0m
+[0mGET /api/v1/categories [32m200[0m 193.734 ms - 138[0m
+[0mPOST /api/v1/categories [32m200[0m 189.504 ms - 192[0m
+[0mGET /api/v1/categories [32m200[0m 127.725 ms - 308[0m
+[0mGET /api/v1/categories/670bfb2a644346ee01686e90 [32m200[0m 2.036 ms - 80[0m
+[0mGET /api/v1/categories/670bfb2a644346ee01686e90 [32m200[0m 262.408 ms - 25[0m
+[0mGET /api/v1/categories/670bfb2a644346ee01686e90 [32m200[0m 104.780 ms - 25[0m
+[0mGET /api/v1/categories/670bfb2a644346ee01686e90 [32m200[0m 139.813 ms - 136[0m

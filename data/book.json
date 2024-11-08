@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Физик ",
+        "author":"Оюун Долгиржавын",
+        "price": 4500,
+        "coverphoto":"/isaak_nyuton1.jpg",
+        "rating" : 4,
+        "balance":5,
+        "content" : "nyuton alimtai taarsan tuuh",
+        "bestseller":true ,
+        "category":  "671a51e33059ff8316ee63fe",
+        "createdUser": "6720949d2a38f0b2facdd810",
+        "updatedUser": "6720949d2a38f0b2facdd810",
+        "available" : ["new","old","pdf"]
+    },
+    {
+        "name": "Молекул физик",
+        "author": "Шилагарди",
+        "price": 9600,
+        "coverphoto":"/shalary1.jpg",
+        "rating" : 5,
+        "balance":5,
+        "content" : "Moleculiig oilguuldag nom",
+        "bestseller":false ,
+        "category" : "671a51e33059ff8316ee63fe",
+        "createdUser": "67209cd792b2c9c4f9640cba",
+        "updatedUser": "67209cd792b2c9c4f9640cba",
+        "available" : ["old","pdf"]
+    },
+    {
+        "name":"C and C++ programming language",
+        "author": "Munktur",
+        "price": 30000,
+        "coverphoto":"/mundur.jpg",
+        "rating" : 4,
+        "balance":90,
+        "content" : "Fundamentals of programming",
+        "bestseller":false ,
+        "category" : "671a5195d9f620ddcef335f6",
+        "createdUser": "6720a8a3ee8a64422b5e3f09",
+        "updatedUser": "6720a8a3ee8a64422b5e3f09",
+        "available" : ["old","pdf","new"]
+    },
+    {
+        "name":"Java programming language",
+        "author": "Munktur",
+        "price": 20000,
+        "coverphoto":"/mundur.jpg",
+        "rating" : 4,
+        "balance":90,
+        "content" : "Fundamentals of Object Oriented programming",
+        "bestseller":false ,
+        "category" : "671a5195d9f620ddcef335f6",
+        "createdUser": "67209cd792b2c9c4f9640cba",
+        "updatedUser": "67209cd792b2c9c4f9640cba",
+        "available" : ["old","pdf","new"]
+        
+    }
+]

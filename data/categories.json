@@ -1,0 +1,40 @@
+[
+  {
+      "_id": "6714b2d5129fc69923648400",
+      "name": "Уран зохиол",
+      "description": "Бүр цаг үеийн шилдэг уран зохиолууд",
+      "photo": "no-photo.png",
+      "slug": "uran-zohiol",
+      "__v": 0
+  },
+  {
+      "_id": "6714b304129fc69923648404",
+      "name": "Орчин үеийн бизнес",
+      "description": "Бүр цаг үеийн туршлага",
+      "photo": "no-photo.png",
+      "slug": "orchin-ueiyn-bizneyoyo",
+      "__v": 0
+  },
+  {
+      "_id": "6714b316129fc69923648406",
+      "name": "Түүхэн",
+      "description": "Бүр цаг үеийн туршлага",
+      "photo": "no-photo.png",
+      "slug": "tuuhen",
+      "__v": 0
+  },
+  {
+    "name": "Програмчлалын хэл",
+    "description": "Орчин үеийн хувилбарууд",
+    "photo": "photo.png",
+    "_id": "671a5195d9f620ddcef335f6",
+    "__v": 0
+},
+{
+    "name": "Шинжлэх ухаан",
+    "description": "квант физикийн онол",
+    "photo": "photo.png",
+    "_id": "671a51e33059ff8316ee63fe",
+    "__v": 0
+}
+]
